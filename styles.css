@@ -4,12 +4,15 @@
 }
 
 #octocat {
-  display: flex;
-  width:380px;
-  margin: 48px auto;
+
+  display: grid;
+  width:384px;
+  margin: 50px auto;
+    
 }
 
 p {
+    color:black;
   display: block;
   width: 400px;
   margin: 50px auto;
