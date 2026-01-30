@@ -4,9 +4,11 @@
 }
 
 #octocat {
+
   display: grid;
   width:384px;
   margin: 50px auto;
+    
 }
 
 p {
@@ -14,5 +16,5 @@ p {
   display: block;
   width: 400px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 30px Monaco,"Arial","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
